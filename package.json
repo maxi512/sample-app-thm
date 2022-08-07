@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node main",
     "test": "jest"
- },
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/maxi512/sample-app-thm.git"
