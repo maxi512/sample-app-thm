@@ -1,0 +1,19 @@
+{
+  "name": "sample-app-thm",
+  "version": "1.0.0",
+  "description": "Just a basic repo for showing Github Actions capabilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxi512/sample-app-thm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxi512/sample-app-thm/issues"
+  },
+  "homepage": "https://github.com/maxi512/sample-app-thm#readme"
+}
